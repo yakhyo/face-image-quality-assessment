@@ -1,0 +1,5 @@
+uniface>=3.3.0
+torch
+torchvision
+onnx
+onnxruntime
